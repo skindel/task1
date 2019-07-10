@@ -1,0 +1,13 @@
+code {
+  padding: .25em;
+  line-height: 0; }
+
+body {
+  background: #333;
+  font: Cursive Italics; }
+
+.header h1 {
+  background: yellow; }
+
+.header h2 {
+  background: red; }

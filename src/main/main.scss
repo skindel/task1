@@ -1,0 +1,19 @@
+// colors
+$color-white: #333;
+// fonts
+$italic: Cursive Italics;
+//import
+@import '../commons/test.scss';
+
+body{
+    background: $color-white;
+    font: $italic;
+}
+.header {
+    h1{
+    background: yellow;
+}
+h2{
+    background: red;
+}
+}
